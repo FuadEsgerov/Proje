@@ -1,0 +1,13 @@
+C:\Users\fuada\source\repos\AdventureGame\AdventureGame\bin\Debug\netcoreapp3.1\AdventureGame.exe
+C:\Users\fuada\source\repos\AdventureGame\AdventureGame\bin\Debug\netcoreapp3.1\AdventureGame.deps.json
+C:\Users\fuada\source\repos\AdventureGame\AdventureGame\bin\Debug\netcoreapp3.1\AdventureGame.runtimeconfig.json
+C:\Users\fuada\source\repos\AdventureGame\AdventureGame\bin\Debug\netcoreapp3.1\AdventureGame.runtimeconfig.dev.json
+C:\Users\fuada\source\repos\AdventureGame\AdventureGame\bin\Debug\netcoreapp3.1\AdventureGame.dll
+C:\Users\fuada\source\repos\AdventureGame\AdventureGame\bin\Debug\netcoreapp3.1\AdventureGame.pdb
+C:\Users\fuada\source\repos\AdventureGame\AdventureGame\obj\Debug\netcoreapp3.1\AdventureGame.csprojAssemblyReference.cache
+C:\Users\fuada\source\repos\AdventureGame\AdventureGame\obj\Debug\netcoreapp3.1\AdventureGame.AssemblyInfoInputs.cache
+C:\Users\fuada\source\repos\AdventureGame\AdventureGame\obj\Debug\netcoreapp3.1\AdventureGame.AssemblyInfo.cs
+C:\Users\fuada\source\repos\AdventureGame\AdventureGame\obj\Debug\netcoreapp3.1\AdventureGame.csproj.CoreCompileInputs.cache
+C:\Users\fuada\source\repos\AdventureGame\AdventureGame\obj\Debug\netcoreapp3.1\AdventureGame.dll
+C:\Users\fuada\source\repos\AdventureGame\AdventureGame\obj\Debug\netcoreapp3.1\AdventureGame.pdb
+C:\Users\fuada\source\repos\AdventureGame\AdventureGame\obj\Debug\netcoreapp3.1\AdventureGame.genruntimeconfig.cache
